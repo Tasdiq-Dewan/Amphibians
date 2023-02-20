@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Amphibians</string>
+    <string name="top_bar_title">Amphibians</string>
+    <string name="photo_description">Amphibian photo</string>
+    <string name="loading">Loading</string>
+    <string name="loading_failed">Failed to load</string>
+</resources>
